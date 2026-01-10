@@ -1,3 +1,3 @@
-@Library("shared-jenkins-pipelines@codex/copy-version.tmp-only-if-it-exists") _
+@Library("shared-jenkins-pipelines") _
 
 platformioPipeline('publishOffbeat':'false')

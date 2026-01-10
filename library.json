@@ -1,0 +1,25 @@
+{
+  "name": "esp_utilities",
+  "version": "0.0.1",
+  "description": "Utilities for ESP projects",
+  "keywords": [
+    "esp8266",
+    "utilities"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Lance-Uppercut/esp_utilities.git"
+  },
+  "authors": [
+    {
+      "name": "Lance-Uppercut",
+      "email": "soerensejr@yahoo.dk"
+    }
+  ],
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "espressif8266"
+  ]
+}
